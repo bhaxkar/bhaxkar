@@ -1,5 +1,6 @@
 👋 I’m [@bhaxkar](https://www.linkedin.com/in/bhaxkar/), passionate about MERN stack, Java (OOPs, multithreading, collection framework, and exception handling), Golang (concurrent programming), SQL, and exploring AI & ML.  
-💡 Seeking an SDE Internship to contribute to groundbreaking projects! Reach me at [mail](mailto:bhaskarjha.info@gmail.com) 🚀.  
+💡 Seeking an SDE Internship to contribute to groundbreaking projects!🚀
+📧 Reach me at [mail](mailto:bhaskarjha.info@gmail.com) .  
 
 
   
