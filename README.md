@@ -1,6 +1,6 @@
 I ([@bhaxkar](https://bhaxkar.vercel.app/)) design APIs, squash bugs, build distributed systems, and craft interfaces people actually enjoy using.
 
-**Tech I work with**: Node.js, NestJS, Next.js, Angular, React.js, PostgreSQL, MongoDB, RabbitMQ, Docker, and AWS.
+**Tech I work with**: Node.js, NestJS, Express.js, Next.js, Angular, React.js, PostgreSQL, MongoDB, RabbitMQ, Docker, and AWS.
 
 Reach me at [mail](mailto:bhaskarjha.info@gmail.com) and connect with me on [Social link](https://beacons.ai/bhaxkar). 🌱
 
